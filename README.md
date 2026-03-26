@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 Technologies
+Front-end Development:
+React HTML5 CSS3 Flutter Android iOS
+
+Back-end Development:
+Node.js Spring Boot
+
+Databases:
+SQLServer
+
+Programming Languages:
+JavaScript Python Java C# C++ Kotlin Swift 
+
+Version Control:
+GitHub
